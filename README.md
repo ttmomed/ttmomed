@@ -1,6 +1,6 @@
 [最新版はこちらからDLしてください](https://github.com/denpadokei/dicloake/releases/latest)  
   
-# dicloake
+# tweetFlowChecker
 ゲーム内でプレイリストが編集できる
 
 # 今できること  
